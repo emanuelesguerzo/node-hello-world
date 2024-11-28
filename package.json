@@ -6,7 +6,8 @@
   "scripts": {
     "start": "node app.js",
     "dev": "node --watch app.js",
-    "pari-dispari": "node pari-dispari.js"
+    "pari-dispari": "node pari-dispari.js",
+    "conta-vocali": "node conta-vocali.js"
   },
   "repository": {
     "type": "git",
