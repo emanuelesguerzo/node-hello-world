@@ -1,0 +1,20 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "Introduzione all'utilizzo di Node.js",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "node --watch app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "node-hello-world"
+  },
+  "keywords": [
+    "node",
+    "intro"
+  ],
+  "author": "Emanuele Sguerzo",
+  "license": "ISC"
+}
